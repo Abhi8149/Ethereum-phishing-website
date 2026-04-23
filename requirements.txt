@@ -2,7 +2,7 @@
 
 streamlit
 requests
-torch==2.5.1+cpu
+torch
 torch-geometric
 pandas
 numpy
